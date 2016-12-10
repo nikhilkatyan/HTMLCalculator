@@ -1,0 +1,76 @@
+body {
+	
+}
+
+.container {
+	width:240px;
+	padding:0px;
+	margin:0px;
+}
+
+.buttons {
+	width:200px;
+	*height:75%;
+	position:relative;
+	display:inline-block;
+}
+
+.display {
+	width:250px;
+}
+
+.display input {
+	margin:10px;
+	width:235px;
+	height:25px;
+	border: 1px solid red;
+	padding:5px;
+	text-align:right;
+}
+
+.commands {
+	width:40px;
+	float:right;
+	position:relative;
+	display:inline-block;
+}
+
+.box {
+	margin:10px;
+	padding:10px;
+	padding-left:15px;
+	width:15px;
+	height:15px;
+	border: 1px solid red;
+	background-color:#eee;
+	float:left;
+	cursor:pointer;
+	text-align:center;
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Chrome/Safari/Opera */
+     -khtml-user-select: none; /* Konqueror */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  not supported by any browser */
+	
+}
+.box1 {
+	margin:10px;
+	padding:8.3px;
+	text-align:center;
+	width:15px;
+	height:15px;
+	border: 1px solid red;
+	background-color:#eee;
+	*float:left;
+	cursor:pointer;
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Chrome/Safari/Opera */
+     -khtml-user-select: none; /* Konqueror */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  not supported by any browser */
+	
+}
